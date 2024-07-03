@@ -71,7 +71,7 @@ function Experiance() {
               className=" flex flex-col items-center justify-center border-[2px] rounded-full md:w-[200px] md:h-[200px] shadow-md p-1 cursor-pointer hover:scale-110 duration-300 hover:bg-gray-700"
               key={id}
             >
-              <img src={logo} className="w-[150px] rounded-full" alt="" />
+              <img src={logo} className=" w-[90px] " alt="" />
               <div>
                 <div className="">{name}</div>
               </div>
